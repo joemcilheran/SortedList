@@ -1,0 +1,6 @@
+c:\users\joseph a mcilheran\documents\visual studio 2015\Projects\SortedListProject\SortedListProject\bin\Debug\SortedListProject.exe.config
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\SortedListProject\SortedListProject\bin\Debug\SortedListProject.exe
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\SortedListProject\SortedListProject\bin\Debug\SortedListProject.pdb
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\SortedListProject\SortedListProject\obj\Debug\SortedListProject.csprojResolveAssemblyReference.cache
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\SortedListProject\SortedListProject\obj\Debug\SortedListProject.exe
+C:\Users\Joseph A McIlheran\Documents\Visual Studio 2015\Projects\SortedListProject\SortedListProject\obj\Debug\SortedListProject.pdb
